@@ -10,3 +10,7 @@
 * [mstdn.jpの仲間たち](members/README.md)
 * [mstdn.jpの流行語](buzzword/README.md)
 
+# 参考サイト
+
+* [mstdn.jp マストドン日本語ウィキ](https://ja.mstdn.wiki/Mstdn.jp}
+
