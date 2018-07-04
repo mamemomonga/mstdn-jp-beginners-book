@@ -9,6 +9,7 @@
 * [mstdn.jpの歴史](history/README.md)
 * [mstdn.jpの仲間たち](members/README.md)
 * [mstdn.jpの流行語](buzzword/README.md)
+* [mstdn.jpで使える便利なツール](tools/README.md)
 
 # 参考サイト
 
