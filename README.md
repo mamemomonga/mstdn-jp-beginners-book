@@ -12,5 +12,5 @@
 
 # 参考サイト
 
-* [mstdn.jp マストドン日本語ウィキ](https://ja.mstdn.wiki/Mstdn.jp}
+* [mstdn.jp マストドン日本語ウィキ](https://ja.mstdn.wiki/Mstdn.jp)
 
