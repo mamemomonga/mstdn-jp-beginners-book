@@ -28,4 +28,4 @@
 
 * [mstdn.jp にオーディオファイルをアップロードする](audio_upload.md)
 * [マストドンで正確なトゥート数を調べる方法](statuses_count.md)
-* [](tategaki.md)
+* [縦書きポスト](tategaki.md)
