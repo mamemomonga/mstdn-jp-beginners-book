@@ -1,6 +1,8 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mamemomonga/mstdn-jp-beginners-book)
 
+
 # mstdn.jp 入門書
+
 
 [mstdn.jp](https://mstdn.jp)は、日本を代表するマストドンインスタンスです。
 このリポジトリは、mstdn.jpを利用する際に知っておくと便利な情報をに書いておくものです。
