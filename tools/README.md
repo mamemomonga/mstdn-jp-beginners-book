@@ -2,11 +2,11 @@
 
 ## 文字列置換ツール
 
-### [ウホライザー](http://www.geocities.jp/uho_uho_uho_ho/uho.html)
+### [ウホライザー](http://ypsilon.html.xdomain.jp/uho.html)
 
 文章をウホウホにできるツール。絵文字置換にも対応。
 
-### [ニャオライザー](http://www.geocities.jp/uho_uho_uho_ho/meow.html)
+### [ニャオライザー](http://ypsilon.html.xdomain.jp/meow.html)
 
 文章をニャオニャオにできるツール。絵文字置換にも対応。
 
